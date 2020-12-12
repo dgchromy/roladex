@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import CardWrap from "./components/CardWrap";
-import Bar from "./components/Bar"
+import CardWrap from './components/CardWrap';
+import Bar from './components/Bar'
 import Header from "./components/Header";
 import GroupCard from "./components/GroupCard"
 import groupArray from "./group.json";
@@ -54,14 +54,14 @@ function App() {
           person.title.includes("Striker")
         ));
         break;
-      case "Center Mid":
+      case "Midfielder":
         setGroup([...groupArray].filter(person =>
-          person.title.includes("Center Mid")
+          person.title.includes("Midfielder")
         ));
         break;
       case "Defender":
         setGroup([...groupArray].filter(person =>
-          person.title.includes("Bassist")
+          person.title.includes("Defender")
         ));
         break;
       case "Goalie":

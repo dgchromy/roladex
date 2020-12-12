@@ -11,16 +11,16 @@ function BtnGroup ({ sortBtn, resetBtn, children, handleSelectDropdown }) {
              <Button onClick={sortBtn}>{children}</Button>
 
              <DropdownButton as={ButtonGroup} title="Title" id="bg-nested-dropdown" onSelect={handleSelectDropdown}>
-                <Dropdown.Item eventKey="Front Man">Front Man</Dropdown.Item>
-                <Dropdown.Item eventKey="Guitarist">Guitarist</Dropdown.Item>
-                <Dropdown.Item eventKey="Bassist">Bassist</Dropdown.Item>
-                <Dropdown.Item eventKey="Drummer">Drummer</Dropdown.Item>
+                <Dropdown.Item eventKey="Striker">Striker</Dropdown.Item>
+                <Dropdown.Item eventKey=" Midfielder">Midfielder</Dropdown.Item>
+                <Dropdown.Item eventKey="Defender">Defender</Dropdown.Item>
+                <Dropdown.Item eventKey="Goalie">Goalie</Dropdown.Item>
             </DropdownButton>
 
             <DropdownButton as={ButtonGroup} title="Location" id="bg-nested-dropdown" onSelect={handleSelectDropdown}>
-                <Dropdown.Item eventKey="Washington">Washington</Dropdown.Item>
-                <Dropdown.Item eventKey="California">California</Dropdown.Item>
-                <Dropdown.Item eventKey="Arizona">Arizona</Dropdown.Item>
+                <Dropdown.Item eventKey="Seattle">Seattle</Dropdown.Item>
+                <Dropdown.Item eventKey="Columbus">Columbus</Dropdown.Item>
+                <Dropdown.Item eventKey="Portland">Portland</Dropdown.Item>
             </DropdownButton>
             <Button onClick={resetBtn}>Reset</Button>
 

@@ -1,0 +1,67 @@
+  
+[
+    {
+        "id": 1,
+        "name": "Maynard Keenan",
+        "title": "Front Man",
+        "location": "Arizona",
+        "phone": "(303) 123-4567",
+        "email": "maynard@tool.com"
+    },
+    {
+        "id": 2,
+        "name": "Adam Jones",
+        "title": "Guitarist",
+        "location": "California",
+        "phone": "(455) 345-9876",
+        "email": "jonesy@tool.com"
+    },
+    {
+        "id": 3,
+        "name": "Justin Chancellor",
+        "title": "Bassist",
+        "location": "California",
+        "phone": "(678) 211-5757",
+        "email": "justin@tool.com"
+    },
+    {
+        "id": 4,
+        "name": "Danny Carey",
+        "title": "Drummer",
+        "location": "Washington",
+        "phone": "(204) 421–7625",
+        "email": "danny@tool.com"
+    },
+    {
+        "id": 5,
+        "name": "Dave Grohl",
+        "title": "Front Man",
+        "location": "Washington",
+        "phone": "(555) 555–5555",
+        "email": "dave@foofighter.com"
+    },
+    {
+        "id": 6,
+        "name": "Pat Smear",
+        "title": "Guitarist",
+        "location": "Arizona",
+        "phone": "(415) 290–1212",
+        "email": "smear@foofighters.com"
+    },
+    {
+        "id": 7,
+        "name": "Taylor Hawkins",
+        "title": "Drummer",
+        "location": "California",
+        "phone": "(578) 999–1245",
+        "email": "taylor@foofighters.com"
+    },
+    {
+        "id": 8,
+        "name": "John Paul Jones",
+        "title": "Bassist",
+        "location": "Arizona",
+        "phone": "(970) 444–6867",
+        "email": "johnpaul@zepplin.com"
+    }
+]
