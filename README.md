@@ -18,7 +18,12 @@
   ## Contributors
   JonBower, Moses Kamara 
   ## Test
-  
+  ![Screen Shot 2020-12-12 at 12 34 44 AM](https://user-images.githubusercontent.com/65515339/101979526-99a90180-3c12-11eb-9e4f-3aecfcaa2f90.png)
+
+
+
+![Screen Shot 2020-12-12 at 12 35 06 AM](https://user-images.githubusercontent.com/65515339/101979529-9ada2e80-3c12-11eb-890d-c2768c4b7478.png)
+
   ## Questions
   If you have any questions, contact dgchromy on GitHub.
   ## License
