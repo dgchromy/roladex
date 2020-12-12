@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import CardWrap from './components/CardWrap';
-import NavBar from './components/Bar/nav'
-import Header from "./components/Header";
-import GroupCard from "./components/GroupCard"
+import CardWrap from './component/CardWrap';
+import NavBar from './component/Bar/nav'
+import Header from "./component/Header";
+import GroupCard from "./component/GroupCard"
 import groupArray from "./group.json";
-import Main from "./components/Main"
+import Main from "./component/Main"
 
 function App() {
 

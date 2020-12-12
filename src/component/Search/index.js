@@ -1,6 +1,6 @@
   
 import React from 'react';
-import './style.css';
+
 import { FaSearch } from 'react-icons/fa';
 import Form from 'react-bootstrap/Form'
 
