@@ -1,0 +1,44 @@
+  
+.margin {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    padding: 22px 0 22px 2.5rem;
+    margin-top: 20px;
+  }
+  
+  .has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    top: 16px;
+    left: 32px;
+    font-size: 14px;
+    text-align: center;
+    pointer-events: none;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+  }
+  
+  .search-input {
+    font-family: 'lato', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border: none;
+  }
+  
+  .search-input::placeholder {
+    color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .search-input {
+    border-radius: 50px;
+  }
+  
+  .search-input:focus  {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  }

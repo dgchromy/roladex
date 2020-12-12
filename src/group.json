@@ -3,7 +3,7 @@
     {
         "id": 1,
         "name": "stephen Frei",
-        "title": "goalie",
+        "title": "Goalie",
         "location": "Seattle",
         "phone": "(206) 123-4567",
         "email": "Frei@sounders.com"
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Danno ",
         "title": "Midfielder",
-        "location": "seattle",
+        "location": "Seattle",
         "phone": "(204) 421–7625",
         "email": "danno@gmail.com"
     },
@@ -36,7 +36,7 @@
         "id": 5,
         "name": "Dave jones",
         "title": "Defender",
-        "location": "portland",
+        "location": "Portland",
         "phone": "(555) 555–5555",
         "email": "Davey@timebers.com"
     }

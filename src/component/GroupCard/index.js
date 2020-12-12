@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "./style.css"
 import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 
 
@@ -17,7 +17,7 @@ function GroupCard({ name, title, location, phone, email }) {
             <hr />
             <div className="card-contact">
                 <ul>
-                    <li><FaMapMarkerAlt /> <a rel="noopener noreferrer" target="_blank" href={`https://www.google.com/maps/place/${location}`}>{location} Rock Studio</a></li>
+                    <li><FaMapMarkerAlt /> <a rel="noopener noreferrer" target="_blank" href={`https://www.google.com/maps/place/${location}`}>{location} Stadium</a></li>
                     <li><FaPhoneAlt /> <a href={`tel:${phone}`}>{phone}</a></li>
                     <li><FaEnvelope /> <a href={`mailto:${email}`}>Send Email</a></li>
                 </ul>
