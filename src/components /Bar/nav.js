@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
 // This combines the filter search input and the filter button group of dropdowns and buttons. 
-function Bar({ inputValue, handleInputChange, resetBtn, sortBtn, children, handleSelectDropdown }) {
+function Navbar({ inputValue, handleInputChange, resetBtn, sortBtn, children, handleSelectDropdown }) {
     return (
         <Row>
             <Col md={4}>
@@ -23,4 +23,4 @@ function Bar({ inputValue, handleInputChange, resetBtn, sortBtn, children, handl
 }
 
 
-export default Bar;
+export default Navbar;

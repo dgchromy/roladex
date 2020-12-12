@@ -2,66 +2,43 @@
 [
     {
         "id": 1,
-        "name": "Maynard Keenan",
-        "title": "Front Man",
-        "location": "Arizona",
-        "phone": "(303) 123-4567",
-        "email": "maynard@tool.com"
+        "name": "stephen Frei",
+        "title": "goalie",
+        "location": "Seattle",
+        "phone": "(206) 123-4567",
+        "email": "Frei@sounders.com"
     },
     {
         "id": 2,
-        "name": "Adam Jones",
-        "title": "Guitarist",
-        "location": "California",
+        "name": "Jordan Morris",
+        "title": "Stricker",
+        "location": "Seattle",
         "phone": "(455) 345-9876",
-        "email": "jonesy@tool.com"
+        "email": "jordan@sounders.com"
     },
     {
         "id": 3,
-        "name": "Justin Chancellor",
-        "title": "Bassist",
-        "location": "California",
+        "name": "bill cortez",
+        "title": "Defender",
+        "location": "Columbus",
         "phone": "(678) 211-5757",
-        "email": "justin@tool.com"
+        "email": "Crew@columbus.com"
     },
     {
         "id": 4,
-        "name": "Danny Carey",
-        "title": "Drummer",
-        "location": "Washington",
+        "name": "Danno ",
+        "title": "Midfielder",
+        "location": "seattle",
         "phone": "(204) 421–7625",
-        "email": "danny@tool.com"
+        "email": "danno@gmail.com"
     },
     {
         "id": 5,
-        "name": "Dave Grohl",
-        "title": "Front Man",
-        "location": "Washington",
+        "name": "Dave jones",
+        "title": "Defender",
+        "location": "portland",
         "phone": "(555) 555–5555",
-        "email": "dave@foofighter.com"
-    },
-    {
-        "id": 6,
-        "name": "Pat Smear",
-        "title": "Guitarist",
-        "location": "Arizona",
-        "phone": "(415) 290–1212",
-        "email": "smear@foofighters.com"
-    },
-    {
-        "id": 7,
-        "name": "Taylor Hawkins",
-        "title": "Drummer",
-        "location": "California",
-        "phone": "(578) 999–1245",
-        "email": "taylor@foofighters.com"
-    },
-    {
-        "id": 8,
-        "name": "John Paul Jones",
-        "title": "Bassist",
-        "location": "Arizona",
-        "phone": "(970) 444–6867",
-        "email": "johnpaul@zepplin.com"
+        "email": "Davey@timebers.com"
     }
+    
 ]
